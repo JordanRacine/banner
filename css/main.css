@@ -35,5 +35,6 @@ html {
   overflow: hidden;
   color: #fff;
   bottom: 0;
-  left: 25%;
+  left: 0;
+  width: 100%;
 }
